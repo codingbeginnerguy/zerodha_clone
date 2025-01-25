@@ -1,0 +1,9 @@
+amazon black: 0f1111
+amazon orange: orange
+background color1: 222f3d
+transparent background color: f3f3f3
+transparent background color: f5f5f5
+background-color: rgba(0, 113, 133, 0.1);
+greyish  color: #666;
+greyish 2 color: #878787;
+https://icon-icons.com/
